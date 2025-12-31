@@ -1,28 +1,28 @@
 {
-  "name": "hxz-api",
+  "name": "hxf-api",
   "version": "1.0.0",
-  "description": "hexa-api",
+  "description": "fork from https://github.com/Hexagonz/Hexa-api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hexagonz/Hexa-api.git"
+    "url": "git+https://github.com/restufauzi697/HXF-Api.git"
   },
   "keywords": [
     "YNTKTS"
   ],
-  "author": "Hexagon",
+  "author": "restufauzi697",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hexagonz/Hexa-Api/issues"
+    "url": "https://github.com/restufauzi697/HXF-Api/issues"
   },
-  "homepage": "https://github.com/Hexagonz/Hexa-Api#readme",
+  "homepage": "https://github.com/restufauzi697/HXF-Api#readme",
   "dependencies": {
-    "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.10",
-    "qs": "^6.10.1"
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "qs": "^6.14.1"
   },
   "directories": {
     "lib": "lib"
